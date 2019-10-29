@@ -94,7 +94,7 @@ export const IssueList = styled.ul`
     }
 
     p {
-      margin-top: 5px;
+      margin-top: 6px;
       font-size: 12px;
       color: #999;
     }
