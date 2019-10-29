@@ -1,22 +1,19 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Summary
+* [Sobre o projeto / About project](#about)
+* [Sobre a stack / About the Stack](#stack)
+* [Como executar / How to run](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## About
+![Print 1](https://repository-images.githubusercontent.com/218169233/b6f62d00-fa5d-11e9-8e2a-e3b876bfbd60 "Print")
+Este é um simples projeto feito em React, durante a turma 8 do Bootcamp da Rocketseat
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Stack
+Este projeto foi criado com:
+- ReactJS
+- GithubAPI
 
 ## Setup
-To run this project, install it locally using npm:
-
+Para executar esse projeto, digite:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ yarn start
 ```
